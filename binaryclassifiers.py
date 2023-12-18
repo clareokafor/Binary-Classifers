@@ -1,5 +1,5 @@
 """ Name:       Ogochukwu Jane Okafor
-    Student ID: 201666459
+    Task:       Binary Classifiers
 """
 
 # Importing relevant libraries
