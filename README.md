@@ -8,8 +8,6 @@ This project evaluates and compares three supervised learning algorithms on a bi
 - **Decision Tree Classifier**
 - **Logistic Regression**
 
-This work was carried out as part of the CA Assignment 1 for the Applied Artificial Intelligence (COMP534) course at the University of Liverpool.
-
 ## Project Description
 
 The project's primary objective is to understand both the benefits and limitations of each classification method. Each classifier underwent hyperparameter tuning—using GridSearchCV (which incorporates K-Fold cross-validation by default)—to identify the best-performing parameters. The evaluation was based on the following metrics:
